@@ -24,6 +24,7 @@ OS disk             = os
 data disk
 
 
+if OS gets corrupted dat will also s
 why. if os gets curropted. then data also over. 
 
 so separtely data disk is there. 
@@ -31,7 +32,6 @@ so separtely data disk is there.
 data disc = safe storage
 hdd= slow
 ssd=fast
-
 
 key management. 
 v . imp
@@ -71,4 +71,8 @@ auto shutdown.
 
 
 
-if OS gets corrupted dat will also s
+
+
+
+
+
